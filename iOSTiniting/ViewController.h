@@ -9,5 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    IBOutlet UIButton *btn1;
+        IBOutlet UIButton *btn2;
+      //  IBOutlet UIButton *btn3;
+       // IBOutlet UIButton *btn4;
+}
 
 @end

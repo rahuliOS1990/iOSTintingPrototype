@@ -460,6 +460,7 @@
 				9D291FF8199CCA0800EFACC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D291FF9199CCA0800EFACC0 /* Build configuration list for PBXNativeTarget "iOSTinitingTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				9D291FFB199CCA0800EFACC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
